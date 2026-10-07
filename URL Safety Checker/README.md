@@ -1,4 +1,4 @@
-# URL Safety Checker (Terminal Version)
+# URL Safety Checker
 
 A terminal-based security tool to analyze target web URLs, validate URL syntax, enforce HTTPS protocol compliance, detect phishing keywords, identify high-risk TLDs and typosquatting domain patterns, and assign a comprehensive Risk Score.
 
