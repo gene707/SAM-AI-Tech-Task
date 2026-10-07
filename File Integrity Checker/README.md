@@ -1,4 +1,4 @@
-# File Integrity Checker (Terminal Version)
+# File Integrity Checker
 
 A robust, terminal-based security tool to calculate cryptographic file hashes, compare file checksums, generate baseline system manifests, and detect unauthorized file modifications across entire directories.
 
