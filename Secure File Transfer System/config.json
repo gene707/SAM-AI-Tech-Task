@@ -1,0 +1,7 @@
+{
+  "app_name": "Secure File Transfer System",
+  "default_host": "127.0.0.1",
+  "default_port": 9000,
+  "received_files_dir": "received_files",
+  "history_file": "transfer_history.json"
+}
