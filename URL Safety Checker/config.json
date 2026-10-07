@@ -1,0 +1,13 @@
+{
+  "app_name": "URL Safety Checker",
+  "enable_live_ssl_check": false,
+  "suspicious_keywords": [
+    "login", "signin", "verify", "account", "banking", "update", "security",
+    "password", "authenticate", "wallet", "claim", "bonus", "free", "paypal",
+    "netbanking", "support-login", "confirm", "billing", "recovery", "crypto"
+  ],
+  "suspicious_tlds": [
+    ".xyz", ".top", ".tk", ".ml", ".ga", ".cf", ".gq", ".zip", ".mov",
+    ".click", ".work", ".download", ".link", ".rest", ".site", ".online"
+  ]
+}
