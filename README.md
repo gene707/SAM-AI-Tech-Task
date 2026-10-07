@@ -1,4 +1,4 @@
-# SAM AI Tech Learning Guide: Cybersecurity & Networking Projects
+# Learning Guide: Cybersecurity & Networking Projects
 
 Welcome to the Learning Guide for the **File Integrity Checker**, **URL Safety Checker**, and **Secure File Transfer System**. The following document breaks down the fundamental computer science concepts, cybersecurity principles, software engineering architecture, and practical skills by studying and working with these three codebase implementations.
 
