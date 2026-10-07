@@ -1,0 +1,5 @@
+{
+  "app_name": "File Integrity Checker",
+  "default_algorithm": "sha256",
+  "baseline_file": "baseline_manifest.json"
+}
